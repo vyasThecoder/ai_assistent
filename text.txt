@@ -1,0 +1,28 @@
+
+Module
+
+> Language Engine           -         Words aur sentences process karna
+
+Intent Engine             -          Meaning identify karna
+
+> Memory Engine             -          Purani baatein yaad rakhna
+
+Learning Engine           -          Naye examples seekhna
+
+Context Engine            -          Pichhli baat ka context samajhna
+
+Response Engine            -          Reply generate karna
+
+Action Engine              -          Commands execute karna
+
+
+
+
+1  greetin krana 
+2  command ko samajhna
+3  command ko samajhna or Response krana
+4  task parforme krana
+
+
+
+
